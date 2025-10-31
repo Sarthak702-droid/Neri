@@ -1,0 +1,8 @@
+{
+  "name": "Tamizh Kural E-Sevai",
+  "description": "An AI-powered, voice-first platform in Tamil that ensures universal accessibility to government services and data, boosting citizen participation and improving administrative efficiency.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
